@@ -1,2 +1,3 @@
-# reading_notes
-A collection of my reading notes from CodeFellows CyberOps.
+# Table of Contents
+
+- [Class 01 Reading Notes](practice.md) 
